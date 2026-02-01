@@ -1,1 +1,1 @@
-# ThermisterHub
+# ThermistorHub
