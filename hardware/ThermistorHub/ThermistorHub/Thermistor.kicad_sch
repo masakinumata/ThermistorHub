@@ -650,28 +650,10 @@
 		(uuid "02c551a6-b55f-4b12-9501-8280f07e5ae0")
 	)
 	(junction
-		(at 165.1 124.46)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "04d768f7-ca5d-4099-a8f3-63cd2272b424")
-	)
-	(junction
-		(at 175.26 48.26)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0de88b89-08e2-460f-9c2d-3c8cefcd7729")
-	)
-	(junction
 		(at 237.49 63.5)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0fdefc22-e805-4a9a-b478-e45b5a8d927e")
-	)
-	(junction
-		(at 114.3 130.81)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "162db52a-473e-44a1-8e0d-a251098a0b82")
 	)
 	(junction
 		(at 175.26 60.96)
@@ -704,12 +686,6 @@
 		(uuid "31dba174-af90-487a-95fb-bbc48e04df18")
 	)
 	(junction
-		(at 88.9 123.19)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4c4b0c77-be8f-46ff-bcb1-d9c0ce25f9ca")
-	)
-	(junction
 		(at 50.8 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -728,28 +704,10 @@
 		(uuid "6a9c8033-fd54-42ef-88bc-4d82ae926984")
 	)
 	(junction
-		(at 107.95 46.99)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7283eade-3b74-4dc4-9ca8-98a7869f792e")
-	)
-	(junction
 		(at 88.9 135.89)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7e37e4a3-59b2-40cc-9dbd-c482c227ec64")
-	)
-	(junction
-		(at 237.49 46.99)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8a7e4477-90e6-4b5d-82de-82c40d324877")
-	)
-	(junction
-		(at 111.76 128.27)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "90c98a19-4f18-4776-8df5-b898b97902b1")
 	)
 	(junction
 		(at 165.1 64.77)
@@ -794,22 +752,10 @@
 		(uuid "ea9078fd-846f-41a3-b942-3304e469bb3b")
 	)
 	(junction
-		(at 187.96 129.54)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f24eb205-a84f-4494-bddd-19d25753b303")
-	)
-	(junction
 		(at 227.33 63.5)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fb2f228b-0809-494e-a8ed-77c40f8f6739")
-	)
-	(junction
-		(at 190.5 132.08)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "fb986443-124d-49db-9c35-f2ce2b5548bf")
 	)
 	(wire
 		(pts
@@ -823,7 +769,7 @@
 	)
 	(wire
 		(pts
-			(xy 107.95 46.99) (xy 107.95 44.45)
+			(xy 107.95 44.45) (xy 107.95 52.07)
 		)
 		(stroke
 			(width 0)
@@ -863,16 +809,6 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 128.27) (xy 111.76 128.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "124244b2-00a2-457d-bd74-a1926e4bb04c")
-	)
-	(wire
-		(pts
 			(xy 91.44 63.5) (xy 97.79 63.5)
 		)
 		(stroke
@@ -883,7 +819,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 132.08) (xy 190.5 132.08)
+			(xy 165.1 132.08) (xy 196.85 132.08)
 		)
 		(stroke
 			(width 0)
@@ -933,7 +869,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 124.46) (xy 165.1 121.92)
+			(xy 165.1 121.92) (xy 165.1 129.54)
 		)
 		(stroke
 			(width 0)
@@ -943,7 +879,7 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 52.07) (xy 237.49 46.99)
+			(xy 237.49 44.45) (xy 237.49 52.07)
 		)
 		(stroke
 			(width 0)
@@ -1043,26 +979,6 @@
 	)
 	(wire
 		(pts
-			(xy 107.95 52.07) (xy 107.95 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "51189162-2196-484e-8f40-459d92617395")
-	)
-	(wire
-		(pts
-			(xy 114.3 124.46) (xy 114.3 130.81)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5a0f4362-805d-4a33-acb1-a86852e30f25")
-	)
-	(wire
-		(pts
 			(xy 88.9 139.7) (xy 88.9 143.51)
 		)
 		(stroke
@@ -1080,16 +996,6 @@
 			(type default)
 		)
 		(uuid "5d9fdffe-809f-4a13-bba7-ada5431ee4b8")
-	)
-	(wire
-		(pts
-			(xy 187.96 127) (xy 187.96 129.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5ee9cea1-8f28-4e32-b31d-806233da3526")
 	)
 	(wire
 		(pts
@@ -1153,17 +1059,7 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 132.08) (xy 196.85 132.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "859a6708-2020-459e-9309-1d83d0209dbf")
-	)
-	(wire
-		(pts
-			(xy 175.26 53.34) (xy 175.26 48.26)
+			(xy 175.26 45.72) (xy 175.26 53.34)
 		)
 		(stroke
 			(width 0)
@@ -1203,7 +1099,7 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 128.27) (xy 88.9 128.27)
+			(xy 88.9 128.27) (xy 120.65 128.27)
 		)
 		(stroke
 			(width 0)
@@ -1233,16 +1129,6 @@
 	)
 	(wire
 		(pts
-			(xy 196.85 129.54) (xy 187.96 129.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9dded81e-f89d-4b8b-a6c0-b65a7f8927e9")
-	)
-	(wire
-		(pts
 			(xy 109.22 52.07) (xy 107.95 52.07)
 		)
 		(stroke
@@ -1253,26 +1139,6 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 124.46) (xy 111.76 128.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9ecc4d24-de4a-44c5-bff0-bcd2db3e9975")
-	)
-	(wire
-		(pts
-			(xy 165.1 129.54) (xy 165.1 124.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a02910f2-f24a-4eba-beb4-6af43fee7400")
-	)
-	(wire
-		(pts
 			(xy 175.26 55.88) (xy 175.26 60.96)
 		)
 		(stroke
@@ -1280,16 +1146,6 @@
 			(type default)
 		)
 		(uuid "a7a803f7-7189-4766-8a49-0fe2ade33647")
-	)
-	(wire
-		(pts
-			(xy 175.26 48.26) (xy 175.26 45.72)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "aa7506ca-e918-47f3-b8b2-832c48b7c8ed")
 	)
 	(wire
 		(pts
@@ -1323,7 +1179,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 130.81) (xy 114.3 130.81)
+			(xy 88.9 130.81) (xy 120.65 130.81)
 		)
 		(stroke
 			(width 0)
@@ -1413,16 +1269,6 @@
 	)
 	(wire
 		(pts
-			(xy 114.3 130.81) (xy 120.65 130.81)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d50ebebf-a2a4-47fb-af4d-ff1155bc540e")
-	)
-	(wire
-		(pts
 			(xy 38.1 62.23) (xy 48.26 62.23)
 		)
 		(stroke
@@ -1443,7 +1289,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 128.27) (xy 88.9 123.19)
+			(xy 88.9 120.65) (xy 88.9 128.27)
 		)
 		(stroke
 			(width 0)
@@ -1453,7 +1299,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 129.54) (xy 165.1 129.54)
+			(xy 165.1 129.54) (xy 196.85 129.54)
 		)
 		(stroke
 			(width 0)
@@ -1513,16 +1359,6 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 127) (xy 190.5 132.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "eaee83c3-d744-4f1c-8b8d-ad43e7533a09")
-	)
-	(wire
-		(pts
 			(xy 237.49 74.93) (xy 237.49 80.01)
 		)
 		(stroke
@@ -1563,16 +1399,6 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 123.19) (xy 88.9 120.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f864e615-4629-4f05-aace-676b0ebe5cb3")
-	)
-	(wire
-		(pts
 			(xy 48.26 50.8) (xy 48.26 43.18)
 		)
 		(stroke
@@ -1600,16 +1426,6 @@
 			(type default)
 		)
 		(uuid "fe533d10-04d8-47ff-9669-98a5f6960e38")
-	)
-	(wire
-		(pts
-			(xy 237.49 46.99) (xy 237.49 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ffcb3a6a-28d3-495d-b233-c48c552e91fc")
 	)
 	(hierarchical_label "R_Thermistor4"
 		(shape input)
@@ -1837,7 +1653,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal"
 			(at 155.9052 139.7 0)
 			(effects
 				(font
@@ -1874,73 +1690,6 @@
 			(project "ThermistorHub"
 				(path "/654b68be-bf39-4999-b2d7-5e3864aa249f/7d3c11fd-0801-4b85-971c-dbec09416baf"
 					(reference "C104")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 165.1 124.46 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1405c3fb-3567-45d8-bfa9-b21575632d31")
-		(property "Reference" "TP107"
-			(at 170.18 123.1899 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 170.18 125.7299 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 165.1 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 165.1 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 165.1 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1d616aa0-80c2-43d6-9239-57e8f31c2ce7")
-		)
-		(instances
-			(project ""
-				(path "/654b68be-bf39-4999-b2d7-5e3864aa249f/7d3c11fd-0801-4b85-971c-dbec09416baf"
-					(reference "TP107")
 					(unit 1)
 				)
 			)
@@ -2014,73 +1763,6 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 107.95 46.99 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "14e9cc15-2bc1-4260-9757-28a4eb0f7481")
-		(property "Reference" "TP105"
-			(at 113.03 45.7199 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 113.03 48.2599 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 107.95 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 107.95 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 107.95 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "23aef6ff-5316-4513-82e8-1b5b0cbf5252")
-		)
-		(instances
-			(project ""
-				(path "/654b68be-bf39-4999-b2d7-5e3864aa249f/7d3c11fd-0801-4b85-971c-dbec09416baf"
-					(reference "TP105")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
 		(at 237.49 59.69 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2107,7 +1789,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
 			(at 237.49 64.77 0)
 			(effects
 				(font
@@ -2174,7 +1856,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
 			(at 175.26 66.04 0)
 			(effects
 				(font
@@ -2241,7 +1923,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
 			(at 45.72 53.34 0)
 			(effects
 				(font
@@ -2384,7 +2066,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal"
 			(at 98.7552 62.23 0)
 			(effects
 				(font
@@ -2460,7 +2142,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal"
 			(at 79.7052 138.43 0)
 			(effects
 				(font
@@ -2567,73 +2249,6 @@
 			(project "ThermistorHub"
 				(path "/654b68be-bf39-4999-b2d7-5e3864aa249f/7d3c11fd-0801-4b85-971c-dbec09416baf"
 					(reference "R105")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 237.49 46.99 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "50fdfba9-bb4f-41b8-9659-70b064c09b6a")
-		(property "Reference" "TP111"
-			(at 240.03 42.4179 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 240.03 44.9579 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 242.57 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 242.57 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 237.49 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "35d091fe-dbdd-473e-a563-bbcf9bebc3b5")
-		)
-		(instances
-			(project ""
-				(path "/654b68be-bf39-4999-b2d7-5e3864aa249f/7d3c11fd-0801-4b85-971c-dbec09416baf"
-					(reference "TP111")
 					(unit 1)
 				)
 			)
@@ -3023,7 +2638,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal"
 			(at 39.0652 60.96 0)
 			(effects
 				(font
@@ -3292,140 +2907,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 175.26 48.26 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7e835b95-c26d-4500-83ae-264f9de3ba0d")
-		(property "Reference" "TP109"
-			(at 180.34 46.9899 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 180.34 49.5299 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 175.26 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 175.26 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 175.26 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f08881da-53c6-4dbd-9e2d-77b0971249be")
-		)
-		(instances
-			(project ""
-				(path "/654b68be-bf39-4999-b2d7-5e3864aa249f/7d3c11fd-0801-4b85-971c-dbec09416baf"
-					(reference "TP109")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 88.9 123.19 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7f9d7040-c336-44ad-b528-5fc8f1698b69")
-		(property "Reference" "TP103"
-			(at 93.98 121.9199 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TestPoint"
-			(at 93.98 124.4599 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 88.9 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 88.9 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 88.9 123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "064b85bc-e734-4490-acfc-58b060fcf60d")
-		)
-		(instances
-			(project ""
-				(path "/654b68be-bf39-4999-b2d7-5e3864aa249f/7d3c11fd-0801-4b85-971c-dbec09416baf"
-					(reference "TP103")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
 		(at 243.84 52.07 0)
 		(unit 1)
@@ -3523,7 +3004,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
 			(at 55.88 50.8 0)
 			(effects
 				(font
@@ -3564,7 +3045,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 107.95 59.69 0)
+		(at 107.95 59.69 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3573,7 +3054,7 @@
 		(fields_autoplaced yes)
 		(uuid "9cd16f67-1803-40c3-9ca8-955e69e79916")
 		(property "Reference" "TP106"
-			(at 110.49 55.1179 0)
+			(at 113.03 58.4199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3582,7 +3063,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 110.49 57.6579 0)
+			(at 113.03 60.9599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3590,8 +3071,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
-			(at 113.03 59.69 0)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
+			(at 107.95 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3600,7 +3081,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 113.03 59.69 0)
+			(at 107.95 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3700,76 +3181,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector_Generic:Conn_01x02")
-		(at 111.76 119.38 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "a1232e34-0e18-45da-9c7e-075cb6684590")
-		(property "Reference" "J103"
-			(at 116.84 118.1099 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "Thermistor5_BLK"
-			(at 116.84 120.6499 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical"
-			(at 111.76 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 111.76 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 111.76 119.38 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "00e7360c-6f94-4d8c-a5f2-3582c7a546b8")
-		)
-		(pin "2"
-			(uuid "e318eb31-0fc0-4c72-a641-b6ea813750c3")
-		)
-		(instances
-			(project "ThermistorHub"
-				(path "/654b68be-bf39-4999-b2d7-5e3864aa249f/7d3c11fd-0801-4b85-971c-dbec09416baf"
-					(reference "J103")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 227.33 58.42 0)
 		(unit 1)
@@ -3797,7 +3208,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal"
 			(at 228.2952 62.23 0)
 			(effects
 				(font
@@ -3867,7 +3278,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
 			(at 165.1 142.24 0)
 			(effects
 				(font
@@ -4010,7 +3421,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
 			(at 88.9 140.97 0)
 			(effects
 				(font
@@ -4110,76 +3521,6 @@
 			(project "ThermistorHub"
 				(path "/654b68be-bf39-4999-b2d7-5e3864aa249f/7d3c11fd-0801-4b85-971c-dbec09416baf"
 					(reference "#PWR0203")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x02")
-		(at 187.96 121.92 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d732095f-8b7a-43c7-b94f-688556ba3b30")
-		(property "Reference" "J107"
-			(at 193.04 120.6499 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "Thermistor6_BLK"
-			(at 193.04 123.1899 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical"
-			(at 187.96 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 187.96 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 187.96 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "29c94a91-eb17-477d-bcb6-554045f96850")
-		)
-		(pin "2"
-			(uuid "7779f2d5-fc5a-4a91-b6f9-de6e14b7d8c7")
-		)
-		(instances
-			(project "ThermistorHub"
-				(path "/654b68be-bf39-4999-b2d7-5e3864aa249f/7d3c11fd-0801-4b85-971c-dbec09416baf"
-					(reference "J107")
 					(unit 1)
 				)
 			)
@@ -4345,7 +3686,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal"
 			(at 166.0652 63.5 0)
 			(effects
 				(font
