@@ -173,12 +173,12 @@ void handleRoot() {
 <body>
   <h2>リアルタイム温度モニター</h2>
   <div id="sensors">
-    <div class="sensor-box"><div class="ch-name">CH 0</div><div class="ch-temp" id="temp0">--.- °C</div></div>
-    <div class="sensor-box"><div class="ch-name">CH 1</div><div class="ch-temp" id="temp1">--.- °C</div></div>
-    <div class="sensor-box"><div class="ch-name">CH 2</div><div class="ch-temp" id="temp2">--.- °C</div></div>
-    <div class="sensor-box"><div class="ch-name">CH 3</div><div class="ch-temp" id="temp3">--.- °C</div></div>
-    <div class="sensor-box"><div class="ch-name">CH 4</div><div class="ch-temp" id="temp4">--.- °C</div></div>
-    <div class="sensor-box"><div class="ch-name">CH 5</div><div class="ch-temp" id="temp5">--.- °C</div></div>
+    <div class="sensor-box"><div class="ch-name">Wall(CH 1)</div><div class="ch-temp" id="temp0">--.- °C</div></div>
+    <div class="sensor-box"><div class="ch-name">Env(CH 2)</div><div class="ch-temp" id="temp1">--.- °C</div></div>
+    <div class="sensor-box"><div class="ch-name">ESP(CH 3)</div><div class="ch-temp" id="temp2">--.- °C</div></div>
+    <div class="sensor-box"><div class="ch-name">Edge(CH 4)</div><div class="ch-temp" id="temp3">--.- °C</div></div>
+    <div class="sensor-box"><div class="ch-name">Surface(CH 5)</div><div class="ch-temp" id="temp4">--.- °C</div></div>
+    <div class="sensor-box"><div class="ch-name">Heater(CH 6)</div><div class="ch-temp" id="temp5">--.- °C</div></div>
   </div>
 </body>
 </html>
