@@ -449,11 +449,14 @@
       "duplicate_sheet_names": "error",
       "endpoint_off_grid": "warning",
       "extra_units": "error",
+      "field_name_whitespace": "warning",
       "footprint_filter": "ignore",
       "footprint_link_issues": "warning",
       "four_way_junction": "ignore",
       "global_label_dangling": "warning",
+      "ground_pin_not_ground": "warning",
       "hier_label_mismatch": "error",
+      "isolated_pin_label": "warning",
       "label_dangling": "error",
       "label_multiple_wires": "warning",
       "lib_symbol_issues": "warning",
@@ -476,8 +479,10 @@
       "similar_power": "warning",
       "simulation_model_issue": "ignore",
       "single_global_label": "ignore",
+      "stacked_pin_name": "warning",
       "unannotated": "error",
       "unconnected_wire_endpoint": "warning",
+      "undefined_netclass": "error",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
       "wire_dangling": "error"
@@ -536,6 +541,10 @@
   },
   "schematic": {
     "annotate_start_num": 300,
+    "annotation": {
+      "method": 0,
+      "sort_order": 0
+    },
     "bom_export_filename": "${PROJECTNAME}.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
@@ -627,6 +636,7 @@
       "default_line_thickness": 6.0,
       "default_text_size": 50.0,
       "field_names": [],
+      "hop_over_size_choice": 2,
       "intersheets_ref_own_page": false,
       "intersheets_ref_prefix": "",
       "intersheets_ref_short": false,
@@ -650,6 +660,7 @@
     "net_format_name": "",
     "page_layout_descr_file": "",
     "plot_directory": "",
+    "reuse_designators": true,
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
@@ -663,26 +674,36 @@
       {
         "filename": "ThermistorHub.kicad_sch",
         "name": "ThermistorHub",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "654b68be-bf39-4999-b2d7-5e3864aa249f"
       }
-    ]
+    ],
+    "used_designators": "C101-120,C301-318,C401-414,U101-104,U301-304,U401-403,#PWR102-104,#PWR301-318,#PWR401-413,R101-124,R301-322,R401-416,J101-111,J301-311,J401-408,TP101-109,TP301-313,TP401-409,PS301,NT101,NT301,NT401,SW101,A101",
+    "variants": []
   },
   "sheets": [
     [
       "654b68be-bf39-4999-b2d7-5e3864aa249f",
-      "Root"
+      "ThermistorHub"
     ],
     [
-      "7d3c11fd-0801-4b85-971c-dbec09416baf",
-      "Thermistor"
+      "fb7ac046-11be-4f12-9b56-baf381c07a5d",
+      "BME280"
     ],
     [
       "37f9d874-8f1a-4c45-8870-fefc55033c59",
       "SD"
     ],
     [
-      "3951d2be-a112-4e5c-a8dd-b5fab843aebb",
-      "BME280_Breakout"
+      "0b7ca361-a991-4a4c-856d-2332484faac6",
+      "Thermistor"
+    ],
+    [
+      "6ae67a13-3e0b-45a1-904c-80bbaf94b79c",
+      "Thermisotr1"
+    ],
+    [
+      "73e32862-90c4-4247-8a8a-cf87a9f297b3",
+      "Thermisotr2"
     ]
   ],
   "text_variables": {},
