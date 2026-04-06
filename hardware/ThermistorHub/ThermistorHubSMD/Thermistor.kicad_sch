@@ -583,104 +583,104 @@
 		)
 	)
 	(junction
-		(at 237.49 63.5)
+		(at 243.84 63.5)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0fdefc22-e805-4a9a-b478-e45b5a8d927e")
 	)
 	(junction
-		(at 175.26 60.96)
+		(at 181.61 60.96)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "198deeea-14a1-4aa6-8152-bc205ec77a98")
 	)
 	(junction
-		(at 50.8 53.34)
+		(at 57.15 53.34)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1a5d197b-8aa8-4cdb-a777-c4c939d97865")
 	)
 	(junction
-		(at 237.49 59.69)
+		(at 243.84 59.69)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "31dba174-af90-487a-95fb-bbc48e04df18")
 	)
 	(junction
-		(at 50.8 50.8)
+		(at 57.15 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5b6de785-06ef-40b1-9db8-4d2f11657861")
 	)
 	(junction
-		(at 48.26 39.37)
+		(at 54.61 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "66fbe405-c92c-4043-baa6-ab98921b9236")
 	)
 	(junction
-		(at 175.26 39.37)
+		(at 181.61 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7e1660cc-26db-4a98-bb62-17b8ad164d2f")
 	)
 	(junction
-		(at 158.75 64.77)
+		(at 165.1 64.77)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9613a4fa-fae8-4d4c-8697-cf6425dd6f30")
 	)
 	(junction
-		(at 91.44 63.5)
+		(at 97.79 63.5)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9df8c9ff-05cc-4dcd-93b2-e9adf7d93cc7")
 	)
 	(junction
-		(at 48.26 62.23)
+		(at 54.61 62.23)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "aabaef8c-3051-46e8-8eba-a70183444e46")
 	)
 	(junction
-		(at 175.26 64.77)
+		(at 181.61 64.77)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c15b0b17-0c6b-41a0-9bed-3c369124d6ae")
 	)
 	(junction
-		(at 107.95 63.5)
+		(at 114.3 63.5)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ca4faab2-784f-40ca-800d-d2a0f5f17c17")
 	)
 	(junction
-		(at 107.95 59.69)
+		(at 114.3 59.69)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e06676dd-6820-4428-bede-fb67f27fbc56")
 	)
 	(junction
-		(at 29.21 62.23)
+		(at 35.56 62.23)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f60030ed-8708-41c4-b205-f915f961e8b4")
 	)
 	(junction
-		(at 107.95 39.37)
+		(at 114.3 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f94be0e2-906a-4dd8-8223-ef96c920fdb0")
 	)
 	(junction
-		(at 222.25 63.5)
+		(at 228.6 63.5)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ff665bc1-7adb-419b-92b9-0f7b0f0923fc")
 	)
 	(wire
 		(pts
-			(xy 236.22 63.5) (xy 237.49 63.5)
+			(xy 242.57 63.5) (xy 243.84 63.5)
 		)
 		(stroke
 			(width 0)
@@ -690,7 +690,7 @@
 	)
 	(wire
 		(pts
-			(xy 107.95 39.37) (xy 107.95 52.07)
+			(xy 114.3 39.37) (xy 114.3 52.07)
 		)
 		(stroke
 			(width 0)
@@ -700,7 +700,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 55.88) (xy 176.53 55.88)
+			(xy 181.61 55.88) (xy 182.88 55.88)
 		)
 		(stroke
 			(width 0)
@@ -710,7 +710,7 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 63.5) (xy 91.44 63.5)
+			(xy 92.71 63.5) (xy 97.79 63.5)
 		)
 		(stroke
 			(width 0)
@@ -720,7 +720,7 @@
 	)
 	(wire
 		(pts
-			(xy 158.75 64.77) (xy 166.37 64.77)
+			(xy 165.1 64.77) (xy 172.72 64.77)
 		)
 		(stroke
 			(width 0)
@@ -730,7 +730,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 64.77) (xy 175.26 64.77)
+			(xy 180.34 64.77) (xy 181.61 64.77)
 		)
 		(stroke
 			(width 0)
@@ -740,7 +740,7 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 63.5) (xy 99.06 63.5)
+			(xy 97.79 63.5) (xy 105.41 63.5)
 		)
 		(stroke
 			(width 0)
@@ -750,7 +750,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 63.5) (xy 107.95 63.5)
+			(xy 113.03 63.5) (xy 114.3 63.5)
 		)
 		(stroke
 			(width 0)
@@ -760,7 +760,7 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 54.61) (xy 237.49 59.69)
+			(xy 243.84 54.61) (xy 243.84 59.69)
 		)
 		(stroke
 			(width 0)
@@ -770,7 +770,7 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 62.23) (xy 91.44 63.5)
+			(xy 97.79 62.23) (xy 97.79 63.5)
 		)
 		(stroke
 			(width 0)
@@ -780,7 +780,7 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 62.23) (xy 29.21 62.23)
+			(xy 33.02 62.23) (xy 35.56 62.23)
 		)
 		(stroke
 			(width 0)
@@ -790,7 +790,7 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 50.8) (xy 222.25 54.61)
+			(xy 228.6 50.8) (xy 228.6 54.61)
 		)
 		(stroke
 			(width 0)
@@ -800,7 +800,7 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 64.77) (xy 158.75 64.77)
+			(xy 158.75 64.77) (xy 165.1 64.77)
 		)
 		(stroke
 			(width 0)
@@ -810,7 +810,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 73.66) (xy 48.26 78.74)
+			(xy 54.61 73.66) (xy 54.61 78.74)
 		)
 		(stroke
 			(width 0)
@@ -820,7 +820,7 @@
 	)
 	(wire
 		(pts
-			(xy 107.95 39.37) (xy 175.26 39.37)
+			(xy 114.3 39.37) (xy 181.61 39.37)
 		)
 		(stroke
 			(width 0)
@@ -830,7 +830,7 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 62.23) (xy 222.25 63.5)
+			(xy 228.6 62.23) (xy 228.6 63.5)
 		)
 		(stroke
 			(width 0)
@@ -840,7 +840,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 62.23) (xy 48.26 66.04)
+			(xy 54.61 62.23) (xy 54.61 66.04)
 		)
 		(stroke
 			(width 0)
@@ -850,7 +850,7 @@
 	)
 	(wire
 		(pts
-			(xy 222.25 63.5) (xy 228.6 63.5)
+			(xy 228.6 63.5) (xy 234.95 63.5)
 		)
 		(stroke
 			(width 0)
@@ -860,7 +860,7 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 50.8) (xy 91.44 54.61)
+			(xy 97.79 50.8) (xy 97.79 54.61)
 		)
 		(stroke
 			(width 0)
@@ -870,7 +870,7 @@
 	)
 	(wire
 		(pts
-			(xy 107.95 54.61) (xy 107.95 59.69)
+			(xy 114.3 54.61) (xy 114.3 59.69)
 		)
 		(stroke
 			(width 0)
@@ -880,7 +880,7 @@
 	)
 	(wire
 		(pts
-			(xy 107.95 59.69) (xy 107.95 63.5)
+			(xy 114.3 59.69) (xy 114.3 63.5)
 		)
 		(stroke
 			(width 0)
@@ -890,7 +890,7 @@
 	)
 	(wire
 		(pts
-			(xy 107.95 74.93) (xy 107.95 80.01)
+			(xy 114.3 74.93) (xy 114.3 80.01)
 		)
 		(stroke
 			(width 0)
@@ -900,7 +900,7 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 59.69) (xy 237.49 63.5)
+			(xy 243.84 59.69) (xy 243.84 63.5)
 		)
 		(stroke
 			(width 0)
@@ -910,7 +910,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 39.37) (xy 175.26 53.34)
+			(xy 181.61 39.37) (xy 181.61 53.34)
 		)
 		(stroke
 			(width 0)
@@ -920,7 +920,7 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 62.23) (xy 38.1 62.23)
+			(xy 35.56 62.23) (xy 44.45 62.23)
 		)
 		(stroke
 			(width 0)
@@ -930,7 +930,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 76.2) (xy 175.26 81.28)
+			(xy 181.61 76.2) (xy 181.61 81.28)
 		)
 		(stroke
 			(width 0)
@@ -940,7 +940,7 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 54.61) (xy 238.76 54.61)
+			(xy 243.84 54.61) (xy 245.11 54.61)
 		)
 		(stroke
 			(width 0)
@@ -950,7 +950,7 @@
 	)
 	(wire
 		(pts
-			(xy 238.76 52.07) (xy 237.49 52.07)
+			(xy 245.11 52.07) (xy 243.84 52.07)
 		)
 		(stroke
 			(width 0)
@@ -960,7 +960,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 52.07) (xy 107.95 52.07)
+			(xy 115.57 52.07) (xy 114.3 52.07)
 		)
 		(stroke
 			(width 0)
@@ -970,7 +970,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 55.88) (xy 175.26 60.96)
+			(xy 181.61 55.88) (xy 181.61 60.96)
 		)
 		(stroke
 			(width 0)
@@ -980,7 +980,7 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 39.37) (xy 237.49 52.07)
+			(xy 243.84 39.37) (xy 243.84 52.07)
 		)
 		(stroke
 			(width 0)
@@ -990,7 +990,7 @@
 	)
 	(wire
 		(pts
-			(xy 107.95 63.5) (xy 107.95 67.31)
+			(xy 114.3 63.5) (xy 114.3 67.31)
 		)
 		(stroke
 			(width 0)
@@ -1000,7 +1000,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 64.77) (xy 175.26 68.58)
+			(xy 181.61 64.77) (xy 181.61 68.58)
 		)
 		(stroke
 			(width 0)
@@ -1010,7 +1010,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 31.75) (xy 48.26 39.37)
+			(xy 54.61 31.75) (xy 54.61 39.37)
 		)
 		(stroke
 			(width 0)
@@ -1020,7 +1020,7 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 49.53) (xy 29.21 53.34)
+			(xy 35.56 49.53) (xy 35.56 53.34)
 		)
 		(stroke
 			(width 0)
@@ -1030,7 +1030,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 53.34) (xy 48.26 62.23)
+			(xy 54.61 53.34) (xy 54.61 62.23)
 		)
 		(stroke
 			(width 0)
@@ -1040,7 +1040,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 62.23) (xy 48.26 62.23)
+			(xy 52.07 62.23) (xy 54.61 62.23)
 		)
 		(stroke
 			(width 0)
@@ -1050,7 +1050,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 50.8) (xy 50.8 50.8)
+			(xy 68.58 50.8) (xy 57.15 50.8)
 		)
 		(stroke
 			(width 0)
@@ -1060,7 +1060,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 53.34) (xy 62.23 53.34)
+			(xy 57.15 53.34) (xy 68.58 53.34)
 		)
 		(stroke
 			(width 0)
@@ -1070,7 +1070,7 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 60.96) (xy 29.21 62.23)
+			(xy 35.56 60.96) (xy 35.56 62.23)
 		)
 		(stroke
 			(width 0)
@@ -1080,7 +1080,7 @@
 	)
 	(wire
 		(pts
-			(xy 158.75 52.07) (xy 158.75 55.88)
+			(xy 165.1 52.07) (xy 165.1 55.88)
 		)
 		(stroke
 			(width 0)
@@ -1090,7 +1090,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 53.34) (xy 175.26 53.34)
+			(xy 182.88 53.34) (xy 181.61 53.34)
 		)
 		(stroke
 			(width 0)
@@ -1100,7 +1100,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 50.8) (xy 48.26 50.8)
+			(xy 57.15 50.8) (xy 54.61 50.8)
 		)
 		(stroke
 			(width 0)
@@ -1110,7 +1110,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 60.96) (xy 175.26 64.77)
+			(xy 181.61 60.96) (xy 181.61 64.77)
 		)
 		(stroke
 			(width 0)
@@ -1120,7 +1120,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 39.37) (xy 107.95 39.37)
+			(xy 54.61 39.37) (xy 114.3 39.37)
 		)
 		(stroke
 			(width 0)
@@ -1130,7 +1130,7 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 63.5) (xy 222.25 63.5)
+			(xy 223.52 63.5) (xy 228.6 63.5)
 		)
 		(stroke
 			(width 0)
@@ -1140,7 +1140,7 @@
 	)
 	(wire
 		(pts
-			(xy 158.75 63.5) (xy 158.75 64.77)
+			(xy 165.1 63.5) (xy 165.1 64.77)
 		)
 		(stroke
 			(width 0)
@@ -1150,7 +1150,7 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 63.5) (xy 237.49 67.31)
+			(xy 243.84 63.5) (xy 243.84 67.31)
 		)
 		(stroke
 			(width 0)
@@ -1160,7 +1160,7 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 74.93) (xy 237.49 80.01)
+			(xy 243.84 74.93) (xy 243.84 80.01)
 		)
 		(stroke
 			(width 0)
@@ -1170,7 +1170,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 53.34) (xy 50.8 53.34)
+			(xy 54.61 53.34) (xy 57.15 53.34)
 		)
 		(stroke
 			(width 0)
@@ -1180,7 +1180,7 @@
 	)
 	(wire
 		(pts
-			(xy 107.95 54.61) (xy 109.22 54.61)
+			(xy 114.3 54.61) (xy 115.57 54.61)
 		)
 		(stroke
 			(width 0)
@@ -1190,7 +1190,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 39.37) (xy 237.49 39.37)
+			(xy 181.61 39.37) (xy 243.84 39.37)
 		)
 		(stroke
 			(width 0)
@@ -1200,7 +1200,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 39.37) (xy 48.26 50.8)
+			(xy 54.61 39.37) (xy 54.61 50.8)
 		)
 		(stroke
 			(width 0)
@@ -1210,7 +1210,7 @@
 	)
 	(hierarchical_label "R_Thermistor4"
 		(shape input)
-		(at 217.17 63.5 180)
+		(at 223.52 63.5 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1221,7 +1221,7 @@
 	)
 	(hierarchical_label "R_Thermistor1"
 		(shape input)
-		(at 26.67 62.23 180)
+		(at 33.02 62.23 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1232,7 +1232,7 @@
 	)
 	(hierarchical_label "AGND"
 		(shape input)
-		(at 107.95 80.01 270)
+		(at 114.3 80.01 270)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1243,7 +1243,7 @@
 	)
 	(hierarchical_label "AGND"
 		(shape input)
-		(at 91.44 50.8 90)
+		(at 97.79 50.8 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1254,7 +1254,7 @@
 	)
 	(hierarchical_label "R_Thermistor2"
 		(shape input)
-		(at 86.36 63.5 180)
+		(at 92.71 63.5 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1265,7 +1265,7 @@
 	)
 	(hierarchical_label "V_Ref"
 		(shape input)
-		(at 48.26 31.75 90)
+		(at 54.61 31.75 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1276,7 +1276,7 @@
 	)
 	(hierarchical_label "AGND"
 		(shape input)
-		(at 237.49 80.01 270)
+		(at 243.84 80.01 270)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1287,7 +1287,7 @@
 	)
 	(hierarchical_label "AGND"
 		(shape input)
-		(at 158.75 52.07 90)
+		(at 165.1 52.07 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1298,7 +1298,7 @@
 	)
 	(hierarchical_label "AGND"
 		(shape input)
-		(at 29.21 49.53 90)
+		(at 35.56 49.53 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1309,7 +1309,7 @@
 	)
 	(hierarchical_label "AGND"
 		(shape input)
-		(at 48.26 78.74 270)
+		(at 54.61 78.74 270)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1320,7 +1320,7 @@
 	)
 	(hierarchical_label "AGND"
 		(shape input)
-		(at 222.25 50.8 90)
+		(at 228.6 50.8 90)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1331,7 +1331,7 @@
 	)
 	(hierarchical_label "R_Thermistor3"
 		(shape input)
-		(at 152.4 64.77 180)
+		(at 158.75 64.77 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1342,7 +1342,7 @@
 	)
 	(hierarchical_label "AGND"
 		(shape input)
-		(at 175.26 81.28 270)
+		(at 181.61 81.28 270)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1352,8 +1352,8 @@
 		(uuid "f0f14018-ff54-4d20-8100-235d1cff303c")
 	)
 	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 237.49 59.69 270)
+		(lib_id "Device:C")
+		(at 97.79 58.42 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1361,10 +1361,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "20b5bba0-168e-4181-a9d1-a697b5893bcd")
-		(property "Reference" "TP105"
-			(at 242.57 58.4199 90)
+		(uuid "13039a72-19de-4ee3-a218-5042b965c52d")
+		(property "Reference" "C502"
+			(at 99.06 56.388 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1374,8 +1373,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "TestPoint"
-			(at 242.57 60.9599 90)
+		(property "Value" "100nF"
+			(at 99.06 61.214 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1385,8 +1384,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
-			(at 237.49 64.77 0)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 98.7552 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1397,7 +1396,193 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 237.49 64.77 0)
+			(at 97.79 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 97.79 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C1525"
+			(at 97.79 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "96baf233-795f-491b-9088-670692cbbe89")
+		)
+		(pin "2"
+			(uuid "03fcd93c-301a-463e-8cb5-54c2b1b8ffe3")
+		)
+		(instances
+			(project "ThermistorHub"
+				(path "/654b68be-bf39-4999-b2d7-5e3864aa249f/0b7ca361-a991-4a4c-856d-2332484faac6/6ae67a13-3e0b-45a1-904c-80bbaf94b79c"
+					(reference "C502")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 243.84 71.12 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "13a111b5-73c6-4fb2-bc75-9cf25862e21e")
+		(property "Reference" "R508"
+			(at 246.38 69.8499 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "47k"
+			(at 246.38 72.3899 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+			(at 242.062 71.12 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 243.84 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 243.84 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C186202"
+			(at 243.84 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "4d8ea8ba-366d-42e3-a1a4-97f731471b2b")
+		)
+		(pin "2"
+			(uuid "0f1e3a54-0d93-413c-b724-082208ec1bbb")
+		)
+		(instances
+			(project "ThermistorHub"
+				(path "/654b68be-bf39-4999-b2d7-5e3864aa249f/0b7ca361-a991-4a4c-856d-2332484faac6/6ae67a13-3e0b-45a1-904c-80bbaf94b79c"
+					(reference "R508")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 243.84 59.69 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "20b5bba0-168e-4181-a9d1-a697b5893bcd")
+		(property "Reference" "TP505"
+			(at 248.92 58.4199 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 248.92 60.9599 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
+			(at 243.84 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 243.84 64.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1408,7 +1593,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 237.49 59.69 0)
+			(at 243.84 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1424,7 +1609,7 @@
 		(instances
 			(project "ThermistorHub"
 				(path "/654b68be-bf39-4999-b2d7-5e3864aa249f/0b7ca361-a991-4a4c-856d-2332484faac6/6ae67a13-3e0b-45a1-904c-80bbaf94b79c"
-					(reference "TP105")
+					(reference "TP505")
 					(unit 1)
 				)
 			)
@@ -1432,7 +1617,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 175.26 60.96 270)
+		(at 181.61 60.96 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1442,8 +1627,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2f3f2bc9-b525-4e36-99d4-25d9685e138a")
-		(property "Reference" "TP104"
-			(at 180.34 59.6899 90)
+		(property "Reference" "TP504"
+			(at 186.69 59.6899 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1454,7 +1639,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 180.34 62.2299 90)
+			(at 186.69 62.2299 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1465,7 +1650,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
-			(at 175.26 66.04 0)
+			(at 181.61 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1476,7 +1661,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 175.26 66.04 0)
+			(at 181.61 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1487,7 +1672,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 175.26 60.96 0)
+			(at 181.61 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1503,15 +1688,15 @@
 		(instances
 			(project "ThermistorHub"
 				(path "/654b68be-bf39-4999-b2d7-5e3864aa249f/0b7ca361-a991-4a4c-856d-2332484faac6/6ae67a13-3e0b-45a1-904c-80bbaf94b79c"
-					(reference "TP104")
+					(reference "TP504")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "Connector:TestPoint")
-		(at 50.8 53.34 180)
+		(lib_id "Device:C")
+		(at 35.56 57.15 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1519,32 +1704,31 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "35ff97f5-e77b-4487-8f53-74909bb77c15")
-		(property "Reference" "TP102"
-			(at 53.34 55.3719 0)
+		(uuid "3367da57-f51c-49d0-b61f-0e4e203a2ff8")
+		(property "Reference" "C501"
+			(at 36.83 55.118 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
-		(property "Value" "TestPoint"
-			(at 53.34 57.9119 0)
+		(property "Value" "100nF"
+			(at 36.83 59.944 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
-			(at 45.72 53.34 0)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 36.5252 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1555,7 +1739,100 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 45.72 53.34 0)
+			(at 35.56 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 35.56 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C1525"
+			(at 35.56 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "3f67c1c2-b852-4f36-ba80-5d058699f229")
+		)
+		(pin "2"
+			(uuid "a6ec7dda-27e6-4f51-b178-ec1ac288239f")
+		)
+		(instances
+			(project "ThermistorHub"
+				(path "/654b68be-bf39-4999-b2d7-5e3864aa249f/0b7ca361-a991-4a4c-856d-2332484faac6/6ae67a13-3e0b-45a1-904c-80bbaf94b79c"
+					(reference "C501")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 57.15 53.34 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "35ff97f5-e77b-4487-8f53-74909bb77c15")
+		(property "Reference" "TP502"
+			(at 59.69 55.3719 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 59.69 57.9119 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
+			(at 52.07 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 52.07 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1566,7 +1843,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 50.8 53.34 0)
+			(at 57.15 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1582,7 +1859,7 @@
 		(instances
 			(project "ThermistorHub"
 				(path "/654b68be-bf39-4999-b2d7-5e3864aa249f/0b7ca361-a991-4a4c-856d-2332484faac6/6ae67a13-3e0b-45a1-904c-80bbaf94b79c"
-					(reference "TP102")
+					(reference "TP502")
 					(unit 1)
 				)
 			)
@@ -1590,7 +1867,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 67.31 50.8 0)
+		(at 73.66 50.8 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1600,8 +1877,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "42ed1dd3-e318-4a35-86ec-c47a91d63dd2")
-		(property "Reference" "J104"
-			(at 69.85 50.7999 0)
+		(property "Reference" "J501"
+			(at 76.2 50.7999 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1612,7 +1889,7 @@
 			)
 		)
 		(property "Value" "Thermistor1"
-			(at 69.85 53.3399 0)
+			(at 76.2 53.3399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1623,7 +1900,7 @@
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical"
-			(at 67.31 50.8 0)
+			(at 73.66 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1634,7 +1911,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 67.31 50.8 0)
+			(at 73.66 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1645,7 +1922,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 67.31 50.8 0)
+			(at 73.66 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1664,7 +1941,7 @@
 		(instances
 			(project "ThermistorHub"
 				(path "/654b68be-bf39-4999-b2d7-5e3864aa249f/0b7ca361-a991-4a4c-856d-2332484faac6/6ae67a13-3e0b-45a1-904c-80bbaf94b79c"
-					(reference "J104")
+					(reference "J501")
 					(unit 1)
 				)
 			)
@@ -1672,7 +1949,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 91.44 58.42 0)
+		(at 228.6 58.42 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1680,10 +1957,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "464caac2-4966-4134-ab78-997c69d02c3e")
-		(property "Reference" "C114"
-			(at 95.25 57.1499 0)
+		(uuid "4aba7a5c-66c7-43a0-90f7-2ef79b77a249")
+		(property "Reference" "C504"
+			(at 229.87 56.388 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1693,8 +1969,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
-			(at 95.25 59.6899 0)
+		(property "Value" "100nF"
+			(at 229.87 61.214 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1704,8 +1980,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal"
-			(at 92.4052 62.23 0)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 229.5652 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1716,7 +1992,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 91.44 58.42 0)
+			(at 228.6 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1726,8 +2002,19 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
-			(at 91.44 58.42 0)
+		(property "Description" ""
+			(at 228.6 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C1525"
+			(at 228.6 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1738,15 +2025,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "43db3638-ce00-48db-8186-9e786814a835")
+			(uuid "9e631589-c39e-4da2-9a51-e573a916bdfb")
 		)
 		(pin "2"
-			(uuid "4df6207c-4574-4b67-bc04-74e7e471a2d9")
+			(uuid "33f56f2b-148e-45f6-be2a-71f2047c12b8")
 		)
 		(instances
 			(project "ThermistorHub"
 				(path "/654b68be-bf39-4999-b2d7-5e3864aa249f/0b7ca361-a991-4a4c-856d-2332484faac6/6ae67a13-3e0b-45a1-904c-80bbaf94b79c"
-					(reference "C114")
+					(reference "C504")
 					(unit 1)
 				)
 			)
@@ -1754,7 +2041,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 102.87 63.5 90)
+		(at 109.22 63.5 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1764,8 +2051,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4c10a7c6-4d94-41fa-bb8f-2933ff88755d")
-		(property "Reference" "R111"
-			(at 102.87 57.15 90)
+		(property "Reference" "R503"
+			(at 109.22 57.15 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1775,7 +2062,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 102.87 59.69 90)
+			(at 109.22 59.69 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1785,7 +2072,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
-			(at 102.87 65.278 90)
+			(at 109.22 65.278 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1796,7 +2083,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 102.87 63.5 0)
+			(at 109.22 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1807,7 +2094,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 102.87 63.5 0)
+			(at 109.22 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1818,7 +2105,7 @@
 			)
 		)
 		(property "LCSC" "C11702"
-			(at 102.87 63.5 0)
+			(at 109.22 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1837,7 +2124,7 @@
 		(instances
 			(project "ThermistorHub"
 				(path "/654b68be-bf39-4999-b2d7-5e3864aa249f/0b7ca361-a991-4a4c-856d-2332484faac6/6ae67a13-3e0b-45a1-904c-80bbaf94b79c"
-					(reference "R111")
+					(reference "R503")
 					(unit 1)
 				)
 			)
@@ -1845,7 +2132,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 175.26 72.39 0)
+		(at 181.61 72.39 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1854,9 +2141,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "4d3d9f7b-0dd4-47ed-98b6-9a814aecf520")
-		(property "Reference" "R114"
-			(at 177.8 71.1199 0)
+		(uuid "4caccb2d-71f4-477d-ae7f-f54c864d523e")
+		(property "Reference" "R506"
+			(at 184.15 71.1199 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1866,8 +2153,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100k"
-			(at 177.8 73.6599 0)
+		(property "Value" "47k"
+			(at 184.15 73.6599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1877,8 +2164,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
-			(at 173.482 72.39 90)
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+			(at 179.832 72.39 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1889,7 +2176,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 175.26 72.39 0)
+			(at 181.61 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1900,7 +2187,18 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 175.26 72.39 0)
+			(at 181.61 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C186202"
+			(at 181.61 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1911,15 +2209,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "752b191c-ba06-447a-9a54-5d8b7adfef49")
+			(uuid "fff4feb1-7816-4c02-8eb9-3248d7afcbcf")
 		)
 		(pin "2"
-			(uuid "c3dcca85-ba4a-4f93-898f-eafd63d5c99f")
+			(uuid "041780f2-d7ee-468e-8cb7-bad5e84e85fa")
 		)
 		(instances
 			(project "ThermistorHub"
 				(path "/654b68be-bf39-4999-b2d7-5e3864aa249f/0b7ca361-a991-4a4c-856d-2332484faac6/6ae67a13-3e0b-45a1-904c-80bbaf94b79c"
-					(reference "R114")
+					(reference "R506")
 					(unit 1)
 				)
 			)
@@ -1927,7 +2225,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 181.61 53.34 0)
+		(at 187.96 53.34 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1937,8 +2235,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "56a169c3-c6b1-4918-be69-5e59e7c169e0")
-		(property "Reference" "J106"
-			(at 184.15 53.3399 0)
+		(property "Reference" "J503"
+			(at 190.5 53.3399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1949,7 +2247,7 @@
 			)
 		)
 		(property "Value" "Thermistor3"
-			(at 184.15 55.8799 0)
+			(at 190.5 55.8799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1960,7 +2258,7 @@
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical"
-			(at 181.61 53.34 0)
+			(at 187.96 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1971,7 +2269,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 181.61 53.34 0)
+			(at 187.96 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1982,7 +2280,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 181.61 53.34 0)
+			(at 187.96 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2001,89 +2299,7 @@
 		(instances
 			(project "ThermistorHub"
 				(path "/654b68be-bf39-4999-b2d7-5e3864aa249f/0b7ca361-a991-4a4c-856d-2332484faac6/6ae67a13-3e0b-45a1-904c-80bbaf94b79c"
-					(reference "J106")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 237.49 71.12 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "72be5ba2-e12d-4757-865d-6f558a64815e")
-		(property "Reference" "R116"
-			(at 240.03 69.8499 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100k"
-			(at 240.03 72.3899 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
-			(at 235.712 71.12 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 237.49 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 237.49 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "446c9552-f942-4c42-9356-279a56c1e95b")
-		)
-		(pin "2"
-			(uuid "d886a33b-707b-4b62-b0dc-29728f3d734c")
-		)
-		(instances
-			(project "ThermistorHub"
-				(path "/654b68be-bf39-4999-b2d7-5e3864aa249f/0b7ca361-a991-4a4c-856d-2332484faac6/6ae67a13-3e0b-45a1-904c-80bbaf94b79c"
-					(reference "R116")
+					(reference "J503")
 					(unit 1)
 				)
 			)
@@ -2091,7 +2307,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 29.21 57.15 0)
+		(at 165.1 59.69 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2099,10 +2315,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7b8af043-5a1f-487a-bd5e-d8a65500978d")
-		(property "Reference" "C113"
-			(at 33.02 55.8799 0)
+		(uuid "67002929-68b7-4ded-b143-188e08dc4b57")
+		(property "Reference" "C503"
+			(at 166.37 57.658 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2112,8 +2327,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
-			(at 33.02 58.4199 0)
+		(property "Value" "100nF"
+			(at 166.37 62.484 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2123,8 +2338,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal"
-			(at 30.1752 60.96 0)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 166.0652 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2135,7 +2350,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 29.21 57.15 0)
+			(at 165.1 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2145,8 +2360,19 @@
 				)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
-			(at 29.21 57.15 0)
+		(property "Description" ""
+			(at 165.1 59.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C1525"
+			(at 165.1 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2157,15 +2383,15 @@
 			)
 		)
 		(pin "1"
-			(uuid "8642656e-9fe4-46ed-8028-a40aed327822")
+			(uuid "9a8e3c67-1add-47c5-9757-f1c6c5d1c778")
 		)
 		(pin "2"
-			(uuid "e8275ee0-a98e-4e31-9d7a-6d5eb9f2eb85")
+			(uuid "d3c26538-a6ff-4cc1-9c9c-e40166508b59")
 		)
 		(instances
 			(project "ThermistorHub"
 				(path "/654b68be-bf39-4999-b2d7-5e3864aa249f/0b7ca361-a991-4a4c-856d-2332484faac6/6ae67a13-3e0b-45a1-904c-80bbaf94b79c"
-					(reference "C113")
+					(reference "C503")
 					(unit 1)
 				)
 			)
@@ -2173,7 +2399,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 114.3 52.07 0)
+		(at 120.65 52.07 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2183,8 +2409,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7e3fdb4a-00ff-4a75-9f6b-a712896d52f3")
-		(property "Reference" "J105"
-			(at 116.84 52.0699 0)
+		(property "Reference" "J502"
+			(at 123.19 52.0699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2195,7 +2421,7 @@
 			)
 		)
 		(property "Value" "Thermistor2"
-			(at 116.84 54.6099 0)
+			(at 123.19 54.6099 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2206,7 +2432,7 @@
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical"
-			(at 114.3 52.07 0)
+			(at 120.65 52.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2217,7 +2443,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 114.3 52.07 0)
+			(at 120.65 52.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2228,7 +2454,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 114.3 52.07 0)
+			(at 120.65 52.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2247,7 +2473,7 @@
 		(instances
 			(project "ThermistorHub"
 				(path "/654b68be-bf39-4999-b2d7-5e3864aa249f/0b7ca361-a991-4a4c-856d-2332484faac6/6ae67a13-3e0b-45a1-904c-80bbaf94b79c"
-					(reference "J105")
+					(reference "J502")
 					(unit 1)
 				)
 			)
@@ -2255,7 +2481,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 243.84 52.07 0)
+		(at 250.19 52.07 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2265,8 +2491,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "88bd3fb4-4943-403f-aa73-635ca4e53fea")
-		(property "Reference" "J107"
-			(at 246.38 52.0699 0)
+		(property "Reference" "J504"
+			(at 252.73 52.0699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2277,7 +2503,7 @@
 			)
 		)
 		(property "Value" "Thermistor4"
-			(at 246.38 54.6099 0)
+			(at 252.73 54.6099 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2288,7 +2514,7 @@
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical"
-			(at 243.84 52.07 0)
+			(at 250.19 52.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2299,7 +2525,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 243.84 52.07 0)
+			(at 250.19 52.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2310,7 +2536,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 243.84 52.07 0)
+			(at 250.19 52.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2329,7 +2555,7 @@
 		(instances
 			(project "ThermistorHub"
 				(path "/654b68be-bf39-4999-b2d7-5e3864aa249f/0b7ca361-a991-4a4c-856d-2332484faac6/6ae67a13-3e0b-45a1-904c-80bbaf94b79c"
-					(reference "J107")
+					(reference "J504")
 					(unit 1)
 				)
 			)
@@ -2337,7 +2563,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 50.8 50.8 0)
+		(at 57.15 50.8 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2347,8 +2573,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8c8797e8-45a4-48bc-99b7-f419c50e40f7")
-		(property "Reference" "TP101"
-			(at 53.34 46.2279 0)
+		(property "Reference" "TP501"
+			(at 59.69 46.2279 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2359,7 +2585,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 53.34 48.7679 0)
+			(at 59.69 48.7679 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2370,7 +2596,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
-			(at 55.88 50.8 0)
+			(at 62.23 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2381,7 +2607,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 55.88 50.8 0)
+			(at 62.23 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2392,7 +2618,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 50.8 50.8 0)
+			(at 57.15 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2408,7 +2634,7 @@
 		(instances
 			(project "ThermistorHub"
 				(path "/654b68be-bf39-4999-b2d7-5e3864aa249f/0b7ca361-a991-4a4c-856d-2332484faac6/6ae67a13-3e0b-45a1-904c-80bbaf94b79c"
-					(reference "TP101")
+					(reference "TP501")
 					(unit 1)
 				)
 			)
@@ -2416,7 +2642,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 170.18 64.77 90)
+		(at 176.53 64.77 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2426,8 +2652,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8f30743d-7407-453c-bcd6-16989c6d160c")
-		(property "Reference" "R113"
-			(at 170.18 58.42 90)
+		(property "Reference" "R505"
+			(at 176.53 58.42 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2437,7 +2663,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 170.18 60.96 90)
+			(at 176.53 60.96 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2447,7 +2673,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
-			(at 170.18 66.548 90)
+			(at 176.53 66.548 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2458,7 +2684,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 170.18 64.77 0)
+			(at 176.53 64.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2469,7 +2695,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 170.18 64.77 0)
+			(at 176.53 64.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2480,7 +2706,7 @@
 			)
 		)
 		(property "LCSC" "C11702"
-			(at 170.18 64.77 0)
+			(at 176.53 64.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2499,7 +2725,7 @@
 		(instances
 			(project "ThermistorHub"
 				(path "/654b68be-bf39-4999-b2d7-5e3864aa249f/0b7ca361-a991-4a4c-856d-2332484faac6/6ae67a13-3e0b-45a1-904c-80bbaf94b79c"
-					(reference "R113")
+					(reference "R505")
 					(unit 1)
 				)
 			)
@@ -2507,7 +2733,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 107.95 59.69 270)
+		(at 114.3 59.69 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2517,8 +2743,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9cd16f67-1803-40c3-9ca8-955e69e79916")
-		(property "Reference" "TP103"
-			(at 113.03 58.4199 90)
+		(property "Reference" "TP503"
+			(at 119.38 58.4199 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2529,7 +2755,7 @@
 			)
 		)
 		(property "Value" "TestPoint"
-			(at 113.03 60.9599 90)
+			(at 119.38 60.9599 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2540,7 +2766,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
-			(at 107.95 64.77 0)
+			(at 114.3 64.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2551,7 +2777,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 107.95 64.77 0)
+			(at 114.3 64.77 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2562,7 +2788,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 107.95 59.69 0)
+			(at 114.3 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2578,88 +2804,7 @@
 		(instances
 			(project "ThermistorHub"
 				(path "/654b68be-bf39-4999-b2d7-5e3864aa249f/0b7ca361-a991-4a4c-856d-2332484faac6/6ae67a13-3e0b-45a1-904c-80bbaf94b79c"
-					(reference "TP103")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 222.25 58.42 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "a9176271-e132-4528-b8b9-18b606dd46ee")
-		(property "Reference" "C116"
-			(at 224.282 56.388 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.1u"
-			(at 224.79 59.69 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal"
-			(at 223.2152 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 222.25 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 222.25 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "4a32cdd8-92a5-4c8f-b1a3-83d5938f69f9")
-		)
-		(pin "2"
-			(uuid "eea39676-0665-4b86-99e3-0180dcfe707c")
-		)
-		(instances
-			(project "ThermistorHub"
-				(path "/654b68be-bf39-4999-b2d7-5e3864aa249f/0b7ca361-a991-4a4c-856d-2332484faac6/6ae67a13-3e0b-45a1-904c-80bbaf94b79c"
-					(reference "C116")
+					(reference "TP503")
 					(unit 1)
 				)
 			)
@@ -2667,7 +2812,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 232.41 63.5 90)
+		(at 238.76 63.5 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2677,8 +2822,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bf235406-0f49-4d54-891f-7ebb49e41b88")
-		(property "Reference" "R115"
-			(at 232.41 57.15 90)
+		(property "Reference" "R507"
+			(at 238.76 57.15 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2688,7 +2833,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 232.41 59.69 90)
+			(at 238.76 59.69 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2698,7 +2843,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
-			(at 232.41 65.278 90)
+			(at 238.76 65.278 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2709,7 +2854,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 232.41 63.5 0)
+			(at 238.76 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2720,7 +2865,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 232.41 63.5 0)
+			(at 238.76 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2731,7 +2876,7 @@
 			)
 		)
 		(property "LCSC" "C11702"
-			(at 232.41 63.5 0)
+			(at 238.76 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2750,7 +2895,7 @@
 		(instances
 			(project "ThermistorHub"
 				(path "/654b68be-bf39-4999-b2d7-5e3864aa249f/0b7ca361-a991-4a4c-856d-2332484faac6/6ae67a13-3e0b-45a1-904c-80bbaf94b79c"
-					(reference "R115")
+					(reference "R507")
 					(unit 1)
 				)
 			)
@@ -2758,7 +2903,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 48.26 69.85 0)
+		(at 54.61 69.85 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2768,8 +2913,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c2958f32-689d-4aad-931d-389b711ec78d")
-		(property "Reference" "R110"
-			(at 50.8 68.5799 0)
+		(property "Reference" "R502"
+			(at 57.15 68.5799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2780,7 +2925,7 @@
 			)
 		)
 		(property "Value" "47k"
-			(at 50.8 71.1199 0)
+			(at 57.15 71.1199 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2791,7 +2936,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
-			(at 46.482 69.85 90)
+			(at 52.832 69.85 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2802,7 +2947,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 48.26 69.85 0)
+			(at 54.61 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2813,7 +2958,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 48.26 69.85 0)
+			(at 54.61 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2824,7 +2969,7 @@
 			)
 		)
 		(property "LCSC" "C186202"
-			(at 48.26 69.85 0)
+			(at 54.61 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2843,7 +2988,7 @@
 		(instances
 			(project "ThermistorHub"
 				(path "/654b68be-bf39-4999-b2d7-5e3864aa249f/0b7ca361-a991-4a4c-856d-2332484faac6/6ae67a13-3e0b-45a1-904c-80bbaf94b79c"
-					(reference "R110")
+					(reference "R502")
 					(unit 1)
 				)
 			)
@@ -2851,7 +2996,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 41.91 62.23 90)
+		(at 48.26 62.23 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2861,8 +3006,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cbb25fb6-777a-43e6-9e13-edca6c41a222")
-		(property "Reference" "R109"
-			(at 41.91 55.88 90)
+		(property "Reference" "R501"
+			(at 48.26 55.88 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2872,7 +3017,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 41.91 58.42 90)
+			(at 48.26 58.42 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2882,7 +3027,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
-			(at 41.91 64.008 90)
+			(at 48.26 64.008 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2893,7 +3038,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 41.91 62.23 0)
+			(at 48.26 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2904,7 +3049,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 41.91 62.23 0)
+			(at 48.26 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2915,7 +3060,7 @@
 			)
 		)
 		(property "LCSC" "C11702"
-			(at 41.91 62.23 0)
+			(at 48.26 62.23 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2934,7 +3079,7 @@
 		(instances
 			(project "ThermistorHub"
 				(path "/654b68be-bf39-4999-b2d7-5e3864aa249f/0b7ca361-a991-4a4c-856d-2332484faac6/6ae67a13-3e0b-45a1-904c-80bbaf94b79c"
-					(reference "R109")
+					(reference "R501")
 					(unit 1)
 				)
 			)
@@ -2942,7 +3087,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 107.95 71.12 0)
+		(at 114.3 71.12 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2952,8 +3097,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e25afc8a-0126-48d7-a41b-717d71cf62e8")
-		(property "Reference" "R112"
-			(at 110.49 69.8499 0)
+		(property "Reference" "R504"
+			(at 116.84 69.8499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2964,7 +3109,7 @@
 			)
 		)
 		(property "Value" "47k"
-			(at 110.49 72.3899 0)
+			(at 116.84 72.3899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2975,7 +3120,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
-			(at 106.172 71.12 90)
+			(at 112.522 71.12 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2986,7 +3131,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 107.95 71.12 0)
+			(at 114.3 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2997,7 +3142,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 107.95 71.12 0)
+			(at 114.3 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3008,7 +3153,7 @@
 			)
 		)
 		(property "LCSC" "C186202"
-			(at 107.95 71.12 0)
+			(at 114.3 71.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3027,88 +3172,7 @@
 		(instances
 			(project "ThermistorHub"
 				(path "/654b68be-bf39-4999-b2d7-5e3864aa249f/0b7ca361-a991-4a4c-856d-2332484faac6/6ae67a13-3e0b-45a1-904c-80bbaf94b79c"
-					(reference "R112")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 158.75 59.69 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "faa3cc40-8eae-4ce1-94b4-e7e50671ba59")
-		(property "Reference" "C115"
-			(at 161.798 58.166 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.1u"
-			(at 161.798 60.706 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal"
-			(at 159.7152 63.5 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 158.75 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 158.75 59.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "8bcb2835-6c67-491a-919e-1ba56aa9760c")
-		)
-		(pin "2"
-			(uuid "8f42a4c4-c188-48f9-b1f7-12a2da69938a")
-		)
-		(instances
-			(project "ThermistorHub"
-				(path "/654b68be-bf39-4999-b2d7-5e3864aa249f/0b7ca361-a991-4a4c-856d-2332484faac6/6ae67a13-3e0b-45a1-904c-80bbaf94b79c"
-					(reference "C115")
+					(reference "R504")
 					(unit 1)
 				)
 			)

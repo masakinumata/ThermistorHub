@@ -2231,6 +2231,86 @@
 		)
 		(uuid "fc6e3891-e87d-431b-a5c6-f9a27d747494")
 	)
+	(label "THR5"
+		(at 82.55 129.54 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0aab4dab-1119-4469-84c3-df660c87308d")
+	)
+	(label "THR1"
+		(at 82.55 71.12 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "25fb5719-3703-4f20-9a3e-899eac5311ad")
+	)
+	(label "THR7"
+		(at 82.55 134.62 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "73e35c8c-44c6-4c2a-92fd-181e68f927d3")
+	)
+	(label "THR3"
+		(at 82.55 76.2 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7ccd4299-7842-4a1e-8623-3372979a962d")
+	)
+	(label "THR8"
+		(at 82.55 137.16 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "83c8de37-35e2-443f-ab76-cd8870835086")
+	)
+	(label "THR4"
+		(at 82.55 78.74 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9a562121-09f0-41ca-a701-02fd7751be0a")
+	)
+	(label "THR6"
+		(at 82.55 132.08 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "da4ad5f2-4dfb-4c36-bcf2-364adabbf380")
+	)
+	(label "THR2"
+		(at 82.55 73.66 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "fb2ca524-4a76-45f5-9d2d-504c2eb5490c")
+	)
 	(hierarchical_label "SDA"
 		(shape input)
 		(at 106.68 86.36 180)
@@ -2286,7 +2366,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0dd90b78-6261-488a-ab61-d954a178e28e")
-		(property "Reference" "C108"
+		(property "Reference" "C402"
 			(at 151.13 128.778 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2361,7 +2441,7 @@
 		(instances
 			(project "ThermistorHub"
 				(path "/654b68be-bf39-4999-b2d7-5e3864aa249f/0b7ca361-a991-4a4c-856d-2332484faac6"
-					(reference "C108")
+					(reference "C402")
 					(unit 1)
 				)
 			)
@@ -2379,7 +2459,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0ddbdf7e-5164-481a-9f42-603863b9c2ef")
-		(property "Reference" "U103"
+		(property "Reference" "U402"
 			(at 127 114.3 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2399,7 +2479,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ADS1115IRUGT:IC_ADS1115IRUGT"
+		(property "Footprint" "Package_SO:VSSOP-10_3x3mm_P0.5mm"
 			(at 127 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -2536,7 +2616,7 @@
 		(instances
 			(project "ThermistorHub"
 				(path "/654b68be-bf39-4999-b2d7-5e3864aa249f/0b7ca361-a991-4a4c-856d-2332484faac6"
-					(reference "U103")
+					(reference "U402")
 					(unit 1)
 				)
 			)
@@ -2710,7 +2790,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2a850252-5954-409f-9f30-5c31c7ee99cb")
-		(property "Reference" "NT101"
+		(property "Reference" "NT401"
 			(at 193.04 129.54 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2730,7 +2810,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "NetTie:NetTie-2_SMD_Pad2.0mm"
 			(at 193.04 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -2772,7 +2852,7 @@
 		(instances
 			(project "ThermistorHub"
 				(path "/654b68be-bf39-4999-b2d7-5e3864aa249f/0b7ca361-a991-4a4c-856d-2332484faac6"
-					(reference "NT101")
+					(reference "NT401")
 					(unit 1)
 				)
 			)
@@ -2868,7 +2948,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "398831b2-ed65-4451-9ed6-65f6f8183d85")
-		(property "Reference" "U102"
+		(property "Reference" "U401"
 			(at 127 55.88 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2888,7 +2968,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ADS1115IRUGT:IC_ADS1115IRUGT"
+		(property "Footprint" "Package_SO:VSSOP-10_3x3mm_P0.5mm"
 			(at 127 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -3014,7 +3094,7 @@
 		(instances
 			(project "ThermistorHub"
 				(path "/654b68be-bf39-4999-b2d7-5e3864aa249f/0b7ca361-a991-4a4c-856d-2332484faac6"
-					(reference "U102")
+					(reference "U401")
 					(unit 1)
 				)
 			)
@@ -3109,7 +3189,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "3fe1a348-ebdc-4acf-8fd5-b3be043f0d9e")
-		(property "Reference" "C109"
+		(property "Reference" "C403"
 			(at 160.528 68.834 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3184,7 +3264,7 @@
 		(instances
 			(project "ThermistorHub"
 				(path "/654b68be-bf39-4999-b2d7-5e3864aa249f/0b7ca361-a991-4a4c-856d-2332484faac6"
-					(reference "C109")
+					(reference "C403")
 					(unit 1)
 				)
 			)
@@ -3201,7 +3281,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4253ab3a-d4db-4cad-aea9-dad463da28c6")
-		(property "Reference" "C112"
+		(property "Reference" "C406"
 			(at 258.318 98.044 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3276,7 +3356,7 @@
 		(instances
 			(project "ThermistorHub"
 				(path "/654b68be-bf39-4999-b2d7-5e3864aa249f/0b7ca361-a991-4a4c-856d-2332484faac6"
-					(reference "C112")
+					(reference "C406")
 					(unit 1)
 				)
 			)
@@ -3293,7 +3373,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4e56d372-74b3-4a64-a222-b31fbc2307f2")
-		(property "Reference" "C110"
+		(property "Reference" "C404"
 			(at 160.528 128.524 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3368,7 +3448,7 @@
 		(instances
 			(project "ThermistorHub"
 				(path "/654b68be-bf39-4999-b2d7-5e3864aa249f/0b7ca361-a991-4a4c-856d-2332484faac6"
-					(reference "C110")
+					(reference "C404")
 					(unit 1)
 				)
 			)
@@ -3464,7 +3544,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6ca13b20-1d49-4d74-b05b-1dd0498b6fda")
-		(property "Reference" "U104"
+		(property "Reference" "U403"
 			(at 213.36 82.55 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3484,7 +3564,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOT89-5-1/2_NWJ"
+		(property "Footprint" "Library:SOT89-5-1&slash_2_NWJ"
 			(at 190.5 92.71 0)
 			(hide yes)
 			(show_name no)
@@ -3537,7 +3617,7 @@
 		(instances
 			(project "ThermistorHub"
 				(path "/654b68be-bf39-4999-b2d7-5e3864aa249f/0b7ca361-a991-4a4c-856d-2332484faac6"
-					(reference "U104")
+					(reference "U403")
 					(unit 1)
 				)
 			)
@@ -3632,7 +3712,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7d33a823-3998-4bdd-a04d-ab8687f9b940")
-		(property "Reference" "C111"
+		(property "Reference" "C405"
 			(at 248.92 98.298 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3707,7 +3787,7 @@
 		(instances
 			(project "ThermistorHub"
 				(path "/654b68be-bf39-4999-b2d7-5e3864aa249f/0b7ca361-a991-4a4c-856d-2332484faac6"
-					(reference "C111")
+					(reference "C405")
 					(unit 1)
 				)
 			)
@@ -3802,7 +3882,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a2357356-1aad-4823-954a-784cb67eb437")
-		(property "Reference" "C107"
+		(property "Reference" "C401"
 			(at 151.13 69.088 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3877,7 +3957,7 @@
 		(instances
 			(project "ThermistorHub"
 				(path "/654b68be-bf39-4999-b2d7-5e3864aa249f/0b7ca361-a991-4a4c-856d-2332484faac6"
-					(reference "C107")
+					(reference "C401")
 					(unit 1)
 				)
 			)
@@ -4505,49 +4585,49 @@
 				(justify right)
 			)
 		)
-		(pin "R_Thermistor1" input
-			(at 76.2 129.54 0)
-			(uuid "4f581b14-5386-41fb-83a8-21ee32f25d63")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "R_Thermistor2" input
-			(at 76.2 132.08 0)
-			(uuid "0af5e5a4-e6cc-4199-a3bd-bd27f87bb6b3")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "R_Thermistor3" input
-			(at 76.2 134.62 0)
-			(uuid "787df921-8fea-4519-98d1-c92d6c38f85a")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(pin "R_Thermistor4" input
-			(at 76.2 137.16 0)
-			(uuid "045ad34d-c41f-4889-b9ea-eef50ca605a5")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
 		(pin "V_Ref" input
 			(at 76.2 123.19 0)
 			(uuid "ca52397c-7bc8-46ba-a145-10c151927035")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "R_Thermistor5" input
+			(at 76.2 129.54 0)
+			(uuid "c6c61767-9732-4749-bcac-1172fc1f3d6d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "R_Thermistor6" input
+			(at 76.2 132.08 0)
+			(uuid "d775e3f0-7f15-41c2-a227-fec096e4d7a8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "R_Thermistor7" input
+			(at 76.2 134.62 0)
+			(uuid "01a63653-58b7-4d90-8367-f549e917d907")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "R_Thermistor8" input
+			(at 76.2 137.16 0)
+			(uuid "42e87a5b-b785-4c0c-8a04-da4d166d6748")
 			(effects
 				(font
 					(size 1.27 1.27)

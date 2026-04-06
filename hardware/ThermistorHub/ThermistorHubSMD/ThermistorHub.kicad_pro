@@ -489,8 +489,12 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_footprint_libs": [
+      "Library"
+    ],
+    "pinned_symbol_libs": [
+      "New_Library_0"
+    ]
   },
   "meta": {
     "filename": "ThermistorHub.kicad_pro",
@@ -540,7 +544,7 @@
     "page_layout_descr_file": ""
   },
   "schematic": {
-    "annotate_start_num": 300,
+    "annotate_start_num": 500,
     "annotation": {
       "method": 0,
       "sort_order": 0
@@ -677,7 +681,7 @@
         "uuid": "654b68be-bf39-4999-b2d7-5e3864aa249f"
       }
     ],
-    "used_designators": "C101-120,C301-318,C401-414,U101-104,U301-304,U401-403,#PWR102-104,#PWR301-318,#PWR401-413,R101-124,R301-322,R401-416,J101-111,J301-311,J401-408,TP101-109,TP301-313,TP401-409,PS301,NT101,NT301,NT401,SW101,A101",
+    "used_designators": "#PWR105,#PWR505-516,R108-109,R111,R509-511,U502-504,C407-410,SW501",
     "variants": []
   },
   "sheets": [
@@ -704,6 +708,18 @@
     [
       "73e32862-90c4-4247-8a8a-cf87a9f297b3",
       "Thermisotr2"
+    ],
+    [
+      "34cec7a5-9846-4d14-98f3-783cb960b1ce",
+      "BMP390"
+    ],
+    [
+      "07368d28-3edd-4d4f-90c7-c51c24569261",
+      "TMP117"
+    ],
+    [
+      "769f2880-f1e4-403e-b163-c19a09510232",
+      "Pt1000"
     ]
   ],
   "text_variables": {},

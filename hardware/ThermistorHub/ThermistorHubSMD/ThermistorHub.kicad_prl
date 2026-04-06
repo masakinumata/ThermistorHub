@@ -75,6 +75,8 @@
       false,
       false,
       false,
+      false,
+      false,
       false
     ],
     "col_order": [
@@ -87,19 +89,23 @@
       6,
       7,
       8,
-      9
+      9,
+      10,
+      11
     ],
     "col_widths": [
-      222,
-      207,
-      136,
+      246,
+      231,
+      146,
       109,
-      136,
-      136,
-      136,
+      146,
+      146,
+      146,
       78,
-      136,
-      136
+      146,
+      146,
+      146,
+      146
     ],
     "custom_group_rules": [],
     "expanded_rows": [],
@@ -119,7 +125,9 @@
     "files": []
   },
   "schematic": {
-    "hierarchy_collapsed": [],
+    "hierarchy_collapsed": [
+      "/0b7ca361-a991-4a4c-856d-2332484faac6/"
+    ],
     "selection_filter": {
       "graphics": true,
       "images": true,
