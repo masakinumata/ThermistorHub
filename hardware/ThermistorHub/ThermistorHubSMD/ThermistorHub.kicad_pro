@@ -195,8 +195,11 @@
       ],
       "track_widths": [
         0.0,
+        0.1,
         0.2,
+        0.3,
         0.4,
+        0.8,
         1.0
       ],
       "tuning_pattern_settings": {
@@ -623,6 +626,54 @@
           "label": "#",
           "name": "${ITEM_NUMBER}",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MAXIMUM_PACKAGE_HEIGHT",
+          "name": "MAXIMUM_PACKAGE_HEIGHT",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "PARTREV",
+          "name": "PARTREV",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "STANDARD",
+          "name": "STANDARD",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "シンボル名",
+          "name": "シンボル名",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "フィールド5",
+          "name": "フィールド5",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Field10",
+          "name": "Field10",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "LCSC",
+          "name": "LCSC",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MANUFACTURER",
+          "name": "MANUFACTURER",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -681,7 +732,7 @@
         "uuid": "654b68be-bf39-4999-b2d7-5e3864aa249f"
       }
     ],
-    "used_designators": "#PWR105,#PWR505-516,R108-109,R111,R509-511,U502-504,C407-410,SW501",
+    "used_designators": "B501",
     "variants": []
   },
   "sheets": [
